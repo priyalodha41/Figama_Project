@@ -412,7 +412,7 @@ transition: all 0.3s linear;
     margin-top: 30px;
 }
 .tour-bg-picture{
-    background: url(/assets/images/Rectangle\ 494.jpg);
+    background: url(../images/Rectangle\ 494.jpg);
     position: relative;
 }
 .tour-bg-picture::before{
